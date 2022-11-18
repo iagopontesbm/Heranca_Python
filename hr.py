@@ -1,3 +1,14 @@
+""" Funcionalidade do módulo Horas
+
+Lista de Classes:
+    PayrollSystem
+    SalaryPolicy
+    HourlyPolicy
+    CommissionPolicy
+
+"""
+
+
 class PayrollSystem:
     def calculate_payroll(self, employees):
         print('Calculating Payroll')

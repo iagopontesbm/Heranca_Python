@@ -1,4 +1,16 @@
-"""Classe com as informações dos empregados."""
+""" Funcionalidade do módulo Empregados
+
+Lista de Classes:
+    Employee(base)
+    Manager
+    Secretary
+    SalesPerson
+    FactoryWorker
+    TemporarySecretary
+
+"""
+
+
 from hr import (
     SalaryPolicy,
     CommissionPolicy,

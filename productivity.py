@@ -1,3 +1,15 @@
+""" Funcionalidade do módulo Produtividade
+
+Lista de Classes:
+    ProductivitySystem
+    ManagerRole
+    SecretaryRole
+    SalesRole
+    FactoryRole
+
+"""
+
+
 class ProductivitySystem:
     def track(self, employees, hours):
         print('Tracking Employee Productivity')
